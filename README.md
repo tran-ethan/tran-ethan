@@ -8,4 +8,4 @@
 ### 🛠 Technologies & Tools
 - Languages: Java, Python, HTML/CSS, TypeScript, JavaScript
 - Web development: Svelte, Nextjs, React, Flask Tailwind CSS, ShadCN, MantineUI, ChakraUI, Zod, Mapbox GL, Threejs
-- Data Science: TensorFlow, PyTorch, sci-kit learn, pandas, numpy, matplotlib, seaborn, plotly
+- Data Science / Machine Learning: TensorFlow, PyTorch, sci-kit learn, pandas, numpy, matplotlib, seaborn, plotly
