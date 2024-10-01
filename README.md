@@ -1,4 +1,4 @@
-## Hi
+## Hello,
 I'm Ethan and I study computer engineering at McGill University.
 
 ### 🛠 Technologies & Tools
