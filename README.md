@@ -1,5 +1,5 @@
 ## Hello,
-I'm Ethan and I study computer engineering at McGill University.
+I'm Ethan and I study computer engineering at McGill University
 
 ### 🛠 Technologies & Tools
 - **Languages**: Java, Python, HTML/CSS, TypeScript, JavaScript
