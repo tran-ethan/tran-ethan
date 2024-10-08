@@ -11,5 +11,5 @@ I'm Ethan and I study computer engineering at McGill University
 ### 🌱 Fun facts
 - Always exploring the latest in software development, AI, machine learning, and web development
 - Enjoy going to hackathons (especially for the free food)
-- Like the piano
+- Climbing + piano
 - Winner of MariHacks 2024 hackathon and JACHacks 2024 hackathon
