@@ -16,5 +16,6 @@ I'm Ethan and I study computer engineering at McGill University
 
 ### 🤳 Socials
 <p>
-  <a href="[https://www.linkedin.com/in/julien-halde/](https://www.linkedin.com/in/-ethantran-/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/-ethantran-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://devpost.com/ethan_tran" target="_blank"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" /></a>
 </p>
