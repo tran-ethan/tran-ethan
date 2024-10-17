@@ -13,3 +13,8 @@ I'm Ethan and I study computer engineering at McGill University
 - Enjoy going to hackathons (especially for the free food)
 - Climbing + piano
 - Winner of MariHacks 2024 hackathon and JACHacks 2024 hackathon
+
+### Socials
+<p>
+  <a href="[https://www.linkedin.com/in/julien-halde/](https://www.linkedin.com/in/-ethantran-/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
