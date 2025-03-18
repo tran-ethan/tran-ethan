@@ -3,7 +3,7 @@ I'm Ethan and I study computer engineering at McGill University
 
 ### 🛠 Technologies & Tools
 - **Programming languages**: Java, Python, HTML/CSS, TypeScript, JavaScript, C, Bash, VHDL
-- **Web development**: Next.js, React, Flask, Svelte, Tailwind CSS, ShadCN, MantineUI, ChakraUI, Zod, Mapbox GL, Three.js
+- **Web development**: Next.js, React, Flask, Svelte, Tailwind CSS, MongoDB, PostgresQL, ShadCN, MantineUI, ChakraUI, Zod, Mapbox GL, Three.js
 - **Data Science / Machine Learning**: TensorFlow, sci-kit learn, pandas, numpy, matplotlib, seaborn, plotly, SQL (SQLLite, SQLAlchemy)
 - **Desktop/mobile development**: React Native, JavaFX, PyQt5, PyGame
 - **Tools**: Vite, Gradle, Maven, JUnit, Visual Studio Code, IntelliJ, PyCharm, WebStorm, Expo
