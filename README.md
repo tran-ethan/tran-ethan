@@ -7,8 +7,8 @@ I'm Ethan and I study computer engineering at McGill University
 - **Data Science / Machine Learning**: TensorFlow, sci-kit learn, pandas, numpy, matplotlib, seaborn, plotly
 - **Databases**: MongoDB, PostgreSQL, SQLLite, Prisma
 - **Desktop/mobile development**: React Native, JavaFX, PyQt5, PyGame
-- **Testing**: JUnit, Cucumber, ReadyAPI, SoapUI
-- **Tools**: Vite, Gradle, Maven, Visual Studio Code, IntelliJ, PyCharm, WebStorm, Expo
+- **Testing**: JUnit, Cucumber, Gherkin, ReadyAPI, SoapUI
+- **Tools**: Docker, Vite, Gradle, Maven, Visual Studio Code, IntelliJ, PyCharm, WebStorm, Expo
 
 ### 🌱 Fun facts
 - Winner of MariHacks 2024 hackathon and JACHacks 2024 hackathon
