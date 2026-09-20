@@ -3,11 +3,11 @@ I'm Ethan and I study computer engineering at McGill University
 
 ### 💼 Work Experience
 - **Software Developer Intern, Amplify** @ Royal Bank of Canada — *May 2026 – Aug 2026*
-  Built an agentic KYC onboarding platform for Capital Markets (React, TypeScript, Python, FastAPI, PostgreSQL, LlamaCloud, AWS S3), reducing manual review time per onboarding case by 80% and projecting $80M in incremental annual revenue.
+  <br>Built an agentic KYC onboarding platform for Capital Markets
 - **Backend Software Developer Intern** @ Intact Financial Corporation — *May 2025 – Dec 2025*
-  Developed broker workflows in Java/Spring Boot/Maven supporting 150,000+ monthly client acquisitions, migrated legacy SOAP services to REST APIs, and built Python automation that uncovered 200+ regression failures.
-- **Software Developer** @ Hack 4 Impact McGill — *Feb 2025 – Present*
-  Building a grants management platform (React, TypeScript, Next.js, PostgreSQL, Supabase, Prisma) for a nonprofit day shelter serving 1,000+ meals daily.
+  <br>Built broker workflows in Java/Spring Boot and migrated legacy SOAP services to REST APIs.
+- **Tech Lead** @ Hack 4 Impact McGill — *Feb 2025 – Present*
+  <br>Building a grants management platform for a nonprofit day shelter serving 1,000+ meals daily.
   
 ### 🛠 Technologies & Tools
 - **Languages**: Python, Java, SQL, JavaScript, TypeScript, HTML/CSS, C, C++, Bash, VHDL
