@@ -1,9 +1,6 @@
 ## Hello,
 I'm Ethan and I study computer engineering at McGill University
 
-## Hello,
-I'm Ethan, a Computer Engineering student at McGill University. I like building things that ship, from AI document pipelines to hackathon apps.
-
 ### 💼 Work Experience
 - **Software Developer Intern, Amplify** @ Royal Bank of Canada · *May 2026 – Aug 2026*
   <br>Built an agentic KYC onboarding platform for Capital Markets (React, TypeScript, FastAPI, PostgreSQL, LlamaCloud, S3). Cut manual review time per case by 80%, projected to save 64,000 analyst hours a year. Presented to C-suite executives.
